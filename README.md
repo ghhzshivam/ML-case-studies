@@ -1,2 +1,2 @@
 # ML-case-studies
-Case studies done by me for ml
+This repo conintain many case study and ML models which I build
